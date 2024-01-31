@@ -14,7 +14,7 @@ type Props = {
 }
 
 export default function MessageForm({invitee}: Props) {
-  const { mutate } = useMessages('AuxEN8nLjFed');
+  const { mutate } = useMessages('UQti2bXgsmTJ');
   const [loading, setLoading] = useState(false);
 
   const {

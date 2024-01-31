@@ -36,7 +36,7 @@ export const getServerSideProps: GetServerSideProps<Props> = async (
 const HomePage: NextPage<Props> = ({ invitee, bride }) => {
   const welcomeModalRef = useRef<HTMLDialogElement>(null);
   const albumModalRef = useRef<HTMLDialogElement>(null);
-  const { data } = useMessages('AuxEN8nLjFed');
+  const { data } = useMessages('UQti2bXgsmTJ');
 
   const handleMenuClick = (e: MouseEvent, targetId?: string) => {
     const elem = document.activeElement as HTMLElement;
