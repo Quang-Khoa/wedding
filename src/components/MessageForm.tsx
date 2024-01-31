@@ -26,7 +26,7 @@ export default function MessageForm({invitee}: Props) {
 
   const onSubmit = handleSubmit(async (data) => {
     setLoading(true);
-    const res = await apis.message.addMessage('AuxEN8nLjFed', [{
+    const res = await apis.message.addMessage('UQti2bXgsmTJ', [{
       name: data.name,
       message: data.message,
       invitee: invitee,
