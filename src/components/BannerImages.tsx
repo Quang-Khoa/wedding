@@ -23,7 +23,7 @@ const raleway = Raleway({
 
 const slides = [
   { url: '/images/banner-1.jpg', content: 'Save the Date' },
-  { url: '/images/banner-2.jpg', content: "We're Getting Married" },
+  // { url: '/images/banner-2.jpg', content: "We're Getting Married" },
 ]
 
 export default function BannerImages({ ...rest }) {
@@ -51,7 +51,7 @@ export default function BannerImages({ ...rest }) {
                   <HeartTagIcon width={150} height={150} className="ml-5 fill-white absolute top-0 -right-[160px] hidden lg:block" />
                 </div>
                 <p className={`${sacramento.className} text-white text-4xl md:text-[80px] flex items-center gap-2 md:gap-3 mt-5`}>
-                  Khánh <HeartIcon className="md:ml-5 fill-white w-5 h-5 md:w-8 md:h-8" /> Trang
+                  Nguyên <HeartIcon className="md:ml-5 fill-white w-5 h-5 md:w-8 md:h-8" /> Linh
                 </p>
               </div>
             </div>

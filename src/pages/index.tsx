@@ -90,8 +90,8 @@ const HomePage: NextPage<Props> = ({ invitee, bride }) => {
   return (
     <>
       <Head>
-        <title>Khánh Trang Wedding</title>
-        <meta property="og:image" content="/images/share-fb.jpg" />
+        <title>Nguyên Linh Wedding</title>
+        <meta property="og:image" content="/images/banner-1.jpg" />
       </Head>
       <div className="text-zinc-700">
         <header className="hidden md:block sticky top-0 z-[100] backdrop-blur-lg bg-white/70 shadow">
@@ -144,65 +144,62 @@ const HomePage: NextPage<Props> = ({ invitee, bride }) => {
             <div className="mt-10 mx-5">
               <div className="columns-1 md:columns-2 lg:columns-3 gap-6 hidden md:block">
                 <div className="mt-0">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/11.jpg" alt="" width={500} height={500} />
-                </div>
-                <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/13.jpg" alt="" width={500} height={500} />
-                </div>
-                <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/2.jpg" alt="" width={500} height={500} />
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/1S.jpg" alt="" width={500} height={500} />
                 </div>
                 <div className="mt-6">
                   <Image className="h-auto w-full rounded-lg" src="/images/album/4.jpg" alt="" width={500} height={500} />
                 </div>
                 <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/6.jpg" alt="" width={500} height={500} />
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/5.jpg" alt="" width={500} height={500} />
                 </div>
                 <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/8.jpg" alt="" width={500} height={500} />
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/19.jpg" alt="" width={500} height={500} />
                 </div>
                 <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/14.jpg" alt="" width={500} height={500} />
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/30.jpg" alt="" width={500} height={500} />
                 </div>
                 <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/12.jpg" alt="" width={500} height={500} />
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/2S.jpg" alt="" width={500} height={500} />
                 </div>
                 <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/20.jpg" alt="" width={500} height={500} />
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/23.jpg" alt="" width={500} height={500} />
                 </div>
                 <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/16.jpg" alt="" width={500} height={500} />
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/24.jpg" alt="" width={500} height={500} />
+                </div>
+                <div className="mt-6">
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/25.jpg" alt="" width={500} height={500} />
+                </div>
+                <div className="mt-6">
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/26.jpg" alt="" width={500} height={500} />
+                </div>
+                <div className="mt-6">
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/1.jpg" alt="" width={500} height={500} />
+                </div>
+                <div className="mt-6">
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/32.jpg" alt="" width={500} height={500} />
+                </div>
+                <div className="mt-6">
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/2.jpg" alt="" width={500} height={500} />
                 </div>
                 <div className="mt-6">
                   <Image className="h-auto w-full rounded-lg" src="/images/album/3.jpg" alt="" width={500} height={500} />
                 </div>
                 <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/18.jpg" alt="" width={500} height={500} />
-                </div>
-                <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/7.jpg" alt="" width={500} height={500} />
-                </div>
-                <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/22.jpg" alt="" width={500} height={500} />
-                </div>
-                <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/5.jpg" alt="" width={500} height={500} />
-                </div>
-                <div className="mt-6">
-                  <Image className="h-auto w-full rounded-lg" src="/images/album/10.jpg" alt="" width={500} height={500} />
+                  <Image className="h-auto w-full rounded-lg" src="/images/album/16.jpg" alt="" width={500} height={500} />
                 </div>
               </div>
 
               <div className="w-full relative md:hidden sm:block min-h-[400px]">
                 <div className="stack">
                   <div className="card">
-                    <Image className="h-auto w-full rounded-lg" src="/images/album/13.jpg" alt="" width={500} height={500} />
+                    <Image className="h-auto w-full rounded-lg" src="/images/album/17.jpg" alt="" width={500} height={500} />
                   </div>
                   <div className="card">
-                    <Image className="h-auto w-full rounded-lg" src="/images/album/11.jpg" alt="" width={500} height={500} />
+                    <Image className="h-auto w-full rounded-lg" src="/images/album/18.jpg" alt="" width={500} height={500} />
                   </div>
                   <div className="card">
-                    <Image className="h-auto w-full rounded-lg" src="/images/album/12.jpg" alt="" width={500} height={500} />
+                    <Image className="h-auto w-full rounded-lg" src="/images/album/19.jpg" alt="" width={500} height={500} />
                   </div>
                 </div>
                 <div
@@ -246,22 +243,23 @@ const HomePage: NextPage<Props> = ({ invitee, bride }) => {
               <div className="hero-overlay bg-black/10 z-10"></div>
               <div className="flex flex-col-reverse lg:flex-row gap-5 md:gap-20 items-stretch md:items-center p-5 py-10 md:p-20 md:py-24 z-20">
                 <div className="p-10 rounded-lg backdrop-blur-lg bg-white/40 mt-5 md:mt-0">
-                  <StaticCalendar date="2023/10/22" className="!max-w-full md:max-w-[350px]" />
+                  <StaticCalendar date="2024/02/25" className="!max-w-full md:max-w-[350px]" />
                 </div>
                 <div>
                   <h3 className="text-2xl md:text-[32px] uppercase tracking-wider font-semibold">Tiệc cưới tại gia đình <br className="md:hidden" /> nhà gái</h3>
                   <div className="mt-7 text-xl leading-9">
-                    <p>Được tổ chức vào lúc 09 giờ 00 phút</p>
-                    <p>Chủ nhật ngày 22 / 10 / 2023</p>
-                    <p>Địa chỉ: Thôn Kiều Hạ 2, Quốc Tuấn, An Dương, Hải Phòng</p>
+                    <p>Được tổ chức vào lúc 10 giờ 30 phút</p>
+                    <p>Chủ nhật ngày 25 / 02 / 2024</p>
+                    <p>Địa chỉ: Nhà hàng tiệc cưới TÒA NHÀ VÀNG,</p>
+                    <p>Km4 Phường Cẩm Thủy, TP.Cẩm Phả, Quảng Ninh</p>
                   </div>
                   <div className="grid grid-cols-1 md:grid-cols-[1fr_1fr] gap-5 mt-7">
                     <div className="rounded-lg backdrop-blur-sm bg-white/30 p-5 flex items-center">
-                      <Countdown date="2023-10-22T02:00:00.999Z" />
+                      <Countdown date="2024-02-25T02:00:00.999Z" />
                     </div>
                     <Link
                       className="hero relative rounded-lg min-h-[100px] w-full md:max-w-[200px] cursor-pointer text-white"
-                      href="https://maps.app.goo.gl/iRfHdbCXufv9GPf87?g_st=ic"
+                      href="https://maps.app.goo.gl/B5rAMobVBwNeTFSj9"
                       target="_blank"
                     >
                       <Image
@@ -276,11 +274,11 @@ const HomePage: NextPage<Props> = ({ invitee, bride }) => {
                         <DirectionIcon width={25} />
                       </div>
                     </Link>
-                    <div className="mt-1">
+                    {/* <div className="mt-1">
                       <Link className="btn glass" href="https://docs.google.com/spreadsheets/d/15qLvB5bTeahp9idHLAwj3H2tMwzOAKztzH56wkWjDbA/edit?fbclid=IwAR1lwwrGU6QkoU67srsbCjNAMTbvvMuJHV5kJRKnIiCL9ah429q1xouVLDw#gid=923643296" target="_blank">
                         Đăng ký đi xe về nhà gái
                       </Link>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
@@ -312,17 +310,17 @@ const HomePage: NextPage<Props> = ({ invitee, bride }) => {
                   <div>
                     <h3 className="text-2xl md:text-[32px] uppercase tracking-wider font-semibold">Tiệc cưới tại gia đình <br className="md:hidden" /> nhà trai</h3>
                     <div className="mt-7 text-xl leading-9">
-                      <p>Được tổ chức vào lúc 10 giờ 30 phút</p>
-                      <p>Chủ nhật ngày 29 / 10 / 2023</p>
-                      <p>Địa chỉ: Xóm Ủy ban, Thôn Trung Tâm, Yên Phú, Văn Yên, Yên Bái</p>
+                      <p>Được tổ chức vào lúc 16 giờ 30 phút</p>
+                      <p>Chủ nhật ngày 25 / 02 / 2024</p>
+                      <p>Địa chỉ: Xóm bãi, Thôn Vân Hội, Xã Phong Vân, Ba Vì, Hà Nội</p>
                     </div>
                     <div className="grid grid-cols-1 md:grid-cols-[1fr_1fr] gap-5 mt-7">
                       <div className="rounded-lg backdrop-blur-sm bg-white/30 p-5 flex items-center">
-                        <Countdown date="2023-10-29T03:30:00.999Z" />
+                        <Countdown date="2024-02-25T02:00:00.999Z" />
                       </div>
                       <Link
                         className="hero relative rounded-lg min-h-[100px] w-full md:max-w-[200px] cursor-pointer text-white"
-                        href="https://maps.app.goo.gl/YLbxPGzwjodDPGjC8?g_st=ic"
+                        href="https://goo.gl/maps/VzUGqJYUDkqdDFwt8"
                         target="_blank"
                       >
                         <Image
@@ -337,15 +335,15 @@ const HomePage: NextPage<Props> = ({ invitee, bride }) => {
                           <DirectionIcon width={25} />
                         </div>
                       </Link>
-                      <div className="mt-1">
+                      {/* <div className="mt-1">
                         <Link className="btn glass text-white hover:text-zinc-700" href="https://docs.google.com/spreadsheets/d/1DtLMsBIsjA_OXt6vkzXIHaok1k2gNBD4hZHblAa4Mmw/edit?usp=sharing" target="_blank">
                           Đăng ký đi xe về nhà trai
                         </Link>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   <div className="p-10 rounded-lg backdrop-blur-lg bg-white/30 mt-5 md:mt-0">
-                    <StaticCalendar date="2023/10/29" className="!max-w-full md:max-w-[350px]" />
+                    <StaticCalendar date="2024/02/25" className="!max-w-full md:max-w-[350px]" />
                   </div>
                 </div>
               </div>
@@ -388,32 +386,28 @@ const HomePage: NextPage<Props> = ({ invitee, bride }) => {
                 <p className="md:text-lg">Nhớ ghi tên nhé!</p>
               </div>
               <div className="px-16 lg:px-28 py-20 lg:py-40 bg-[#7C36BB] text-white flex flex-col justify-center">
-                <div>
-                  <Image className="h-[35px] w-auto grayscale opacity-50" src="/images/tp-bank-logo.png" alt="" width={200} height={200} />
-                </div>
                 <div className="py-5">
                   <div className="p-4 bg-white rounded">
-                    <Image className="h-full w-full rounded" src="/images/trang-tp-bank.png" alt="" width={250} height={250} />
+                    <Image className="h-full w-full rounded" src="/images/linhtpbank.png" alt="" width={250} height={250} />
                   </div>
                 </div>
                 <div className="flex flex-col gap-1 mt-2">
-                  <h3 className="text-lg md:text-xl font-bold uppercase">Nguyễn Thị Thu Trang</h3>
-                  <p className="text-xl">0192 8072 001</p>
+                  <h3 className="text-lg md:text-xl font-bold uppercase">Phạm Diệu Linh</h3>
+                  <p className="text-xl">TPBANK</p>
+                  <p className="text-xl">0345 3587 401</p>
                   <p className="opacity-80">Cô dâu</p>
                 </div>
               </div>
-              <div className="px-16 lg:px-28 py-20 lg:py-40 bg-[#BD2626] text-white flex flex-col justify-center">
-                <div>
-                  <Image className="h-[35px] w-auto grayscale opacity-50" src="/images/techcombank-logo.svg" alt="" width={200} height={200} />
-                </div>
+              <div className="px-16 lg:px-28 py-20 lg:py-40 bg-lime-700 text-white flex flex-col justify-center">
                 <div className="py-5">
                   <div className="p-4 bg-white rounded">
-                    <Image className="h-full w-full rounded" src="/images/khanh-techcombank.png" alt="" width={250} height={250} />
+                    <Image className="h-full w-full rounded" src="/images/Nguyenvietcombank.png" alt="" width={250} height={250} />
                   </div>
                 </div>
                 <div className="flex flex-col gap-1 mt-2">
-                  <h3 className="text-lg md:text-xl font-bold uppercase">Trần Xuân Khánh</h3>
-                  <p className="text-xl">1903 6301 4920 11</p>
+                  <h3 className="text-lg md:text-xl font-bold uppercase">Nguyễn Văn Nguyên</h3>
+                  <p className="text-xl">VIETCOMBANK</p>
+                  <p className="text-xl">1023494602</p>
                   <p className="opacity-80">Chú rể</p>
                 </div>
               </div>
@@ -424,9 +418,9 @@ const HomePage: NextPage<Props> = ({ invitee, bride }) => {
         <section className="mt-10 py-10 md:py-20">
           <div className="container m-auto flex flex-col justify-center items-center">
             <h3 className="text-3xl font-semibold text-center mb-5">Tag us on Facebook</h3>
-            <p>Cô dâu: @Thu Trang</p>
-            <p>Chú rể: @Trần Xuân Khánh</p>
-            <p>Hashtag: #khanhtrang_wedding</p>
+            <p>Cô dâu: @Diệu Linh</p>
+            <p>Chú rể: @Nguyễn Nguyên</p>
+            <p>Hashtag: #nguyenlinh_wedding</p>
           </div>
         </section>
 
@@ -446,15 +440,15 @@ const HomePage: NextPage<Props> = ({ invitee, bride }) => {
 
         <footer className="bg-[#F2F2F2]">
           <div className="container flex items-center justify-between px-5 py-5 text-sm m-auto">
-            <h2 className="font-semibold">Khánh & Trang</h2>
-            <p>♥ 2023</p>
+            <h2 className="font-semibold">Nguyên & Linh</h2>
+            <p>♥ 2024</p>
           </div>
         </footer>
       </div>
       <dialog id="welcome-modal" className="modal" ref={welcomeModalRef}>
         <div className="modal-box">
           <h3 className="font-bold text-lg mb-5">Xin chào!</h3>
-          <p>Trân trọng kính mời {invitee} tới chung vui cùng cô dâu Thu Trang và chú rể Xuân Khánh</p>
+          <p>Trân trọng kính mời {invitee} tới chung vui cùng cô dâu Diệu Linh và chú rể Nguyễn Nguyên</p>
           <p className="mt-3">Sự hiện diện của quý vị là niềm vinh hạnh cho gia đình chúng tôi</p>
           <div className="modal-action">
             <form method="dialog">
@@ -472,52 +466,49 @@ const HomePage: NextPage<Props> = ({ invitee, bride }) => {
           </form>
           <div className="columns-1 gap-6 p-6">
             <div className="mt-0">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/11.jpg" alt="" width={500} height={500} />
-            </div>
-            <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/13.jpg" alt="" width={500} height={500} />
-            </div>
-            <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/2.jpg" alt="" width={500} height={500} />
+              <Image className="h-auto w-full rounded-lg" src="/images/album/1S.jpg" alt="" width={500} height={500} />
             </div>
             <div className="mt-6">
               <Image className="h-auto w-full rounded-lg" src="/images/album/4.jpg" alt="" width={500} height={500} />
             </div>
             <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/6.jpg" alt="" width={500} height={500} />
+              <Image className="h-auto w-full rounded-lg" src="/images/album/5.jpg" alt="" width={500} height={500} />
             </div>
             <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/8.jpg" alt="" width={500} height={500} />
+              <Image className="h-auto w-full rounded-lg" src="/images/album/19.jpg" alt="" width={500} height={500} />
             </div>
             <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/14.jpg" alt="" width={500} height={500} />
+              <Image className="h-auto w-full rounded-lg" src="/images/album/30.jpg" alt="" width={500} height={500} />
             </div>
             <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/12.jpg" alt="" width={500} height={500} />
+              <Image className="h-auto w-full rounded-lg" src="/images/album/2S.jpg" alt="" width={500} height={500} />
             </div>
             <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/20.jpg" alt="" width={500} height={500} />
+              <Image className="h-auto w-full rounded-lg" src="/images/album/23.jpg" alt="" width={500} height={500} />
             </div>
             <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/16.jpg" alt="" width={500} height={500} />
+              <Image className="h-auto w-full rounded-lg" src="/images/album/24.jpg" alt="" width={500} height={500} />
+            </div>
+            <div className="mt-6">
+              <Image className="h-auto w-full rounded-lg" src="/images/album/25.jpg" alt="" width={500} height={500} />
+            </div>
+            <div className="mt-6">
+              <Image className="h-auto w-full rounded-lg" src="/images/album/26.jpg" alt="" width={500} height={500} />
+            </div>
+            <div className="mt-6">
+              <Image className="h-auto w-full rounded-lg" src="/images/album/1.jpg" alt="" width={500} height={500} />
+            </div>
+            <div className="mt-6">
+              <Image className="h-auto w-full rounded-lg" src="/images/album/32.jpg" alt="" width={500} height={500} />
+            </div>
+            <div className="mt-6">
+              <Image className="h-auto w-full rounded-lg" src="/images/album/2.jpg" alt="" width={500} height={500} />
             </div>
             <div className="mt-6">
               <Image className="h-auto w-full rounded-lg" src="/images/album/3.jpg" alt="" width={500} height={500} />
             </div>
             <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/18.jpg" alt="" width={500} height={500} />
-            </div>
-            <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/7.jpg" alt="" width={500} height={500} />
-            </div>
-            <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/22.jpg" alt="" width={500} height={500} />
-            </div>
-            <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/5.jpg" alt="" width={500} height={500} />
-            </div>
-            <div className="mt-6">
-              <Image className="h-auto w-full rounded-lg" src="/images/album/10.jpg" alt="" width={500} height={500} />
+              <Image className="h-auto w-full rounded-lg" src="/images/album/16.jpg" alt="" width={500} height={500} />
             </div>
           </div>
         </div>

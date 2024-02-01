@@ -11,7 +11,7 @@ export default function Logo({ ...rest }) {
   return (
     <h1 className={sacramento.className}>
       <Link className="flex items-center justify-center gap-1 text-3xl" href="/">
-        Khánh <HeartIcon width={11} height={11} className="ml-0.5" /> Trang
+        Nguyên <HeartIcon width={11} height={11} className="ml-0.5" /> Linh
       </Link>
     </h1>
   );
