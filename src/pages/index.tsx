@@ -369,7 +369,7 @@ const HomePage: NextPage<Props> = ({ invitee, bride }) => {
                 <div className="flex flex-col justify-center items-center gap-3 px-5 mb-10">
                   <h2 className="text-2xl md:text-3xl uppercase tracking-widest text-center leading-10">Gửi lời chúc</h2>
                   <p className="md:text-lg text-zinc-500 text-center mt-2">
-                    Những lời chúc tốt đẹp sẽ góp phần vun đắp hạnh phúc cho gia đình nhỏ của Khánh & Trang
+                    Những lời chúc tốt đẹp sẽ góp phần vun đắp hạnh phúc cho gia đình nhỏ của Nguyên & Linh
                   </p>
                 </div>
                 <MessageForm invitee={invitee} />
